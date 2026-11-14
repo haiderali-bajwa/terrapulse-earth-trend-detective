@@ -49,7 +49,10 @@ pip install streamlit requests plotly
 python -m streamlit run app.py
 ```
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
+=======
+>>>>>>> 60c80d7ab5084e98d8b147b005690bba39fcb1f0
 =======
 >>>>>>> 60c80d7ab5084e98d8b147b005690bba39fcb1f0
 
@@ -61,9 +64,12 @@ python -m streamlit run app.py
   - **Project:** TerraPulse — Earth System Trend Detective (NASA Space Apps Challenge 2026)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 =======
+=======
+>>>>>>> 60c80d7ab5084e98d8b147b005690bba39fcb1f0
 > *(Agar aapki team mein aur members bhi hain, to unke naam isi tarah neeche bullets mein add kar sakte hain.)*
 Or simply open `index.html` in any modern web browser (or deploy directly to Vercel / GitHub Pages).
 >>>>>>> 60c80d7ab5084e98d8b147b005690bba39fcb1f0
