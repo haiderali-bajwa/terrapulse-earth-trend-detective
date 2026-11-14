@@ -56,7 +56,5 @@ python -m streamlit run app.py
   - **GitHub:** [@haiderali-bajwa](https://github.com/haiderali-bajwa)  
   - **LinkedIn:** [haideralibajwa-dataengineer](https://www.linkedin.com/in/haideralibajwa-dataengineer)  
   - **Project:** TerraPulse — Earth System Trend Detective (NASA Space Apps Challenge 2026)
-
-
 Or simply open `index.html` in any modern web browser (or deploy directly to Vercel / GitHub Pages).
 >>>>>>> 60c80d7ab5084e98d8b147b005690bba39fcb1f0
