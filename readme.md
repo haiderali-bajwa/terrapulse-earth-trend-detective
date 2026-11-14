@@ -49,8 +49,6 @@ pip install streamlit requests plotly
 python -m streamlit run app.py
 ```
 
----
-
 ## Author & Team
 
 - **Haider Ali Bajwa** — Data Science Undergraduate, Virtual University of Pakistan  
